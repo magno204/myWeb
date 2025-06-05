@@ -1,3 +1,9 @@
 Hola desde Cursor
 
 Cambios desde mi rama princpial
+
+Cambios desde mi rama local
+
+
+Cambios desde mi rama local
+Cambios desde mi rama princpial
